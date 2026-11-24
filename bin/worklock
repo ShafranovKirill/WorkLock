@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+from worklock.app import main
+
+raise SystemExit(main())

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=WorkLock
+Name[ru]=WorkLock — фото-заставка
+Comment=Fullscreen photo curtain
+Comment[ru]=Полноэкранная фото-заставка
+Exec=worklock
+Icon=com.github.shafranovkirill.WorkLock
+Categories=Utility;
+Terminal=false
